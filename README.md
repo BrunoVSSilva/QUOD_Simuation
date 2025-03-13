@@ -8,6 +8,9 @@ MVVM → Arquitetura utilizada para organização do código
 Coroutines → Para operações assíncronas
 
 🎯 Funcionalidades
+
 ✔️ Entrada e validação de dados do usuário
+
 ✔️ Cálculo e exibição do score final
+
 ✔️ Interface responsiva e moderna com Jetpack Compose
